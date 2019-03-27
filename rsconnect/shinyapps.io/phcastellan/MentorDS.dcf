@@ -1,0 +1,12 @@
+name: MentorDS
+title: MentorDS
+username:
+account: phcastellan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 806930
+bundleId: 1957673
+url: https://phcastellan.shinyapps.io/MentorDS/
+when: 1553245608.36562
+asMultiple: FALSE
+asStatic: FALSE
